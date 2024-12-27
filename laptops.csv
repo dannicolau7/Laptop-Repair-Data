@@ -1,4 +1,4 @@
-Fault type,Fixed,Repairable,End of life,Unknown,Repair attempts,% of total,Product Age,Count,event_year
+Fault type,Fixed,Repairable,End of life,Unknown,Repair attempts,value_counts,Product Age,Count,event_year
 Performance,66%,28%,5%,2%,398,15.70%,0,15,2024
 Power/battery,35%,43%,21%,1%,316,12.50%,1,26,2023
 Configuration,66%,25%,5%,4%,295,11.70%,2,72,2022
