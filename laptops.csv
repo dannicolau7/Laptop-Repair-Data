@@ -1,0 +1,20 @@
+Fault type,Fixed,Repairable,End of life,Unknown,Repair attempts,% of total,Product Age,Count
+Performance,66%,28%,5%,2%,398,15.70%,0,15
+Power/battery,35%,43%,21%,1%,316,12.50%,1,26
+Configuration,66%,25%,5%,4%,295,11.70%,2,72
+Integrated screen,31%,53%,12%,5%,257,10.20%,3,68
+Internal storage,65%,24%,8%,3%,184,7.30%,4,103
+Operating system,59%,32%,7%,2%,177,7.00%,5,135
+Boot,37%,37%,23%,2%,171,6.80%,6,74
+Ports/slots/connectors,48%,39%,8%,6%,127,5.00%,7,82
+Overheating,70%,23%,5%,2%,107,4.20%,8,68
+Integrated keyboard,49%,45%,6%,0%,106,4.20%,9,29
+Case/chassis,48%,39%,5%,8%,75,3.00%,10,70
+System board,32%,39%,22%,7%,72,2.80%,11,17
+Internal damage,29%,36%,31%,5%,59,2.30%,12,18
+Virus/malware,70%,26%,2%,2%,57,2.30%,13,7
+Integrated media component,48%,41%,4%,7%,27,1.10%,14,3
+Integrated pointing device,52%,36%,12%,0%,25,1.00%,15,10
+Integrated optical drive,61%,26%,9%,4%,23,0.90%,16,6
+Multiple,52%,22%,26%,0%,23,0.90%,18,4
+Other,75%,25%,0%,0%,32,1.30%,19,6
